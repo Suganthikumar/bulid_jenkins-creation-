@@ -4,6 +4,9 @@
  
 <?php
 /* $n=8;
+$n=====;
+hello suganthi;
+hiiiiii
 if($n%2!=0)
 {
 	echo "A";
